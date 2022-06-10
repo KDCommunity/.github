@@ -40,8 +40,4 @@
 
 <br><br>
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDCommunity&theme=dark&hide_border=true&stroke=f53b3b"  alt="KD GitHub Stats"/>
-</div>
-
 <div align="center"><font size="2px;"> © Created By <a href="https://github.com/KDCommunity">KD Community</a></a></font></div>
